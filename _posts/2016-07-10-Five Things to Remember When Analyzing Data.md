@@ -9,8 +9,11 @@ Whenever you have a project that involves data analysis, there are 5 steps (at m
 1.Define a Problem Statement: You should decide what you are trying to analyze. This should always be your first step in the project. Make sure that the question is defined via the SMART goals:
 
 a.	Specificity: Specify as best as you can what you want to analyze. This will make it easier for you to come up with results. Here are some examples of implementing specificity when coming up with a problem statement:
+
   i.	Specify a particular relationship between variables that you want to test out. Alternatively, specify which variable you are trying to predict. 
+  
   ii.	Specify which variables you are using as metrics. This includes the dependent variable (i.e. the variable that you are trying to predict/analyze) and the independent variables (i.e. the variables that you hypothesize are factors that influence the dependent variable).
+  
   iii.	Specify the year that you wish to examine. This will give anyone that is interested in your research some context.
 
 b.	Measurability: You need to make sure that your answer can be quantified. This allows you to assess whether or not you can answer the question, and how well you have answered the question.
