@@ -57,7 +57,7 @@ To recap, this is the following order for analysing data:
 
 4.Create graphs to examine potential relationships. 
 
-5. Determine what kind of additional analysis (regression models, decision trees, clustering analysis, or other algorithms) is appropriate for solving your problem statement.
+5.Determine what kind of additional analysis (regression models, decision trees, clustering analysis, or other algorithms) is appropriate for solving your problem statement.
 
 
 That's all for today. I hope that this gave you a better understanding as to how to approach a project involving data analysis. If you would like how I approached my project, please click on [this link](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Siddarth%20Anand%20Billboard%20Project.ipynb)	
