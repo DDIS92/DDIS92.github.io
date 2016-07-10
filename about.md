@@ -11,4 +11,4 @@ I like competitive video games, humour and maths. I studied Economics and Mathem
 
 ### Contact me
 
-[email@domain.com](siddarth.92anand@googlemail.com)
+[(siddarth.92anand@googlemail.com)]
