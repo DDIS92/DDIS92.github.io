@@ -39,9 +39,9 @@ c.	Decide what methods of statistical analysis are practical in the given time f
 
 [Average Ranking No. by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png) - Since I had over 300 songs, I decided to use the average ranking number instead. A higher number means a lower rank on the billboard. The Rock Genre has the lowest average ranking number, which might suggest that rock songs are usually going to be a hit.
 
-[Average Ranking No. by Months Entered](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20by%20Months%20Entered.png)
+[Average Ranking No. by Months Entered](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20by%20Months%20Entered.png) - In this graph, I was trying to determine the trend of rankings over the year 2000. The average ranking number increased over the year.
 
 
 5.Decide Which Method(s) of Higher Level Analysis You Are Going to Use: There are a lot of higher level methods of analysis (e.g. regression models, hypothesis testing, normalization tests, etc.). However, these should be implemented once you understand what you want to test and know which variables to test. These should be considered after you have done all of the other steps as it is simply a matter of deciding which one to use based on the cleaned data.
 
-That's all for today. I hope that this gave you a better understand as to how to approach a project involving data analysis. If you would like to see my Notebook for this project, please click on [this Link](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Siddarth%20Anand%20Billboard%20Project.ipynb)	
+That's all for today. I hope that this gave you a better understanding as to how to approach a project involving data analysis. If you would like to see my Notebook for this project, please click on [this link](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Siddarth%20Anand%20Billboard%20Project.ipynb)	
