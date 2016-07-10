@@ -10,11 +10,11 @@ Whenever you have a project that involves data analysis, there are 5 steps (at m
 
 a.	Specificity: Specify as best as you can what you want to analyze. This will make it easier for you to come up with results. Here are some examples of implementing specificity when coming up with a problem statement:
 
-  i.	Specify a particular relationship between variables that you want to test out. Alternatively, specify which variable you are trying to predict. 
+  i.	Specify a particular relationship between variables that you want to test out. Alternatively, specify which variable you are trying to predict. In my project, I was trying to determine patterns and trends in the average rank number based on certain variables. 
   
-  ii.	Specify which variables you are using as metrics. This includes the dependent variable (i.e. the variable that you are trying to predict/analyze) and the independent variables (i.e. the variables that you hypothesize are factors that influence the dependent variable).
+  ii.	Specify which variables you are using as metrics. This includes the dependent variable (i.e. the variable that you are trying to predict/analyze) and the independent variables (i.e. the variables that you hypothesize are factors that influence the dependent variable). In my case, my independent variables were the genre of the song, the months that the song was entered and peaked, and the length of the song.
   
-  iii.	Specify the year that you wish to examine. This will give anyone that is interested in your research some context.
+  iii.	Specify the year that you wish to examine. This will give anyone that is interested in your research some context. My dataset was for the year 2000.
 
 b.	Measurability: You need to make sure that your answer can be quantified. This allows you to assess whether or not you can answer the question, and how well you have answered the question.
 
@@ -26,20 +26,21 @@ e.	Time-Bound: Often, you do not have the freedom to work on your analysis forev
 
 2.Know What the Dataset Contains: It’s important to know what information your dataset has. Following this step allows you to:
   
-a.	Focus on the most important variables. This is also part of step 3 (i.e cleaning the data).
+a.	Focus your analysis on the most important variables. This is also part of step 3 (i.e cleaning the data).
 
 b.	Understand the data types. This may or may not influence you to manipulate variables to best suit your needs. 
 
 c.	Decide what methods of statistical analysis are practical in the given time frame. You cannot work on this data forever, so you have to find practical and meaningful methods of measuring data.
 
-(show the dataset variables here).
 
-3.Clean the Data: Datasets are usually messy. Values might be missing, nonsensical, or vague. Therefore, datasets require lots of cleaning. This is a tedious, but necessary, process to ensure that your analysis goes smoothly. There are lots of ways to clean data. You can remove missing values, fill them with your own (provided that your values are not completely random guesses with no thought or logic behind them), or even obtain them from another trustworthy data source (again, it depends on the time allocated for your project). It is important to explain why you cleaned the data (or certain variables within the dataset), how you cleaned it and why you cleaned it the way you did.
+3.Clean the Data: Datasets are usually messy. Values might be missing, nonsensical, or vague. Cleaning is a tedious, but necessary, process to ensure that your analysis goes smoothly. There are lots of ways to clean data. You can remove missing values, fill them with your own, or even obtain them from other trustworthy data sources. It is important to explain why you cleaned the data (or certain variables within the dataset), how you cleaned it and why you cleaned it the way you did.
+
+In my case, I had 76 columns of data, but half of these columns were full of missing values. I decided to remove some of these values as I thought that filling these missing values with predicted values would heavily skew the data and lead to misleading conclusions.
 
 
-4.Plot Graphs, Tables and Charts: Visualizations help show patterns in the data and convey a lot of information without being unnecessarily complicated. Keep in mind that these visualizations are subject to how you manipulate your variables. Remember to state your assumptions when presenting data to make sure that you do not mislead anyone looking at the graph. Below are some examples of trends/patterns that I observed.
+4.Plot Graphs, Tables and Charts: Visualizations help show patterns in the data and convey a lot of information without being unnecessarily complicated. Keep in mind that these visualizations are subject to how you manipulate your variables. Remember to state your assumptions when presenting data to make sure that you do not mislead anyone looking at the graph. Below are some examples of trends/patterns that I observed. Keep in mind that half of my data was omitted because it was missing.
 
-[Average Ranking No. by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png) - Since I had over 300 songs, I decided to use the average ranking number instead. A higher number means a lower rank on the billboard. The Rock Genre has the lowest average ranking number, which might suggest that rock songs are usually going to be a hit.
+[Average Ranking No. by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png) - Since I had over 300 songs, I decided to use the average ranking number. A higher number means a lower rank on the billboard. The Rock Genre has the lowest average ranking number, which might suggest that rock songs are usually going to be a hit.
 
 [Average Ranking No. by Months Entered](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20by%20Months%20Entered.png) - In this graph, I was trying to determine the trend of rankings over the year 2000. The average ranking number increased over the year, suggesting that it might be better to enter the song as early as you can.
 
