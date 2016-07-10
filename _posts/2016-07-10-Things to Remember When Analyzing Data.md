@@ -44,3 +44,5 @@ c.	Decide what methods of statistical analysis are practical in the given time f
 
 
 5.	Decide Which Method(s) of Higher Level Analysis You Are Going to Use: There are a lot of higher level methods of analysis (e.g. regression models, hypothesis testing, normalization tests, etc.). However, these should be implemented once you understand what you want to test and know which variables to test. These should be considered after you have done all of the other steps as it is simply a matter of deciding which one to use based on the cleaned data.
+
+That's all for today. I hope that this gave you a better understand as to how to approach a project involving data analysis. 	
