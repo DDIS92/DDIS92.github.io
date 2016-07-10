@@ -4,7 +4,7 @@ title: 5 Things to Remember When Analyzing Data
 ---
 
 
-Whenever you have a project that involves data analysis, there are 5 steps (at minimum) that you should follow. These steps offer the foundation for any analyst to properly pick apart the data and produce reliable and valid results. In this blog, we will be using examples from a project that I was working on. The goal of this analysis was to try to determine what factors influenced average ranking numbers in the year 2000.
+Whenever you have a project that involves data analysis, there are 5 steps (at minimum) that you should follow. These steps offer the foundation for any analyst to properly pick apart the data and produce reliable results. In this blog, we will be using examples from a project that I worked on. The goal of this project was to try to determine what factors influenced average ranking numbers in the year 2000.
 
 1.Define a Problem Statement: You should decide what you are trying to analyze. This should always be your first step in the project. Make sure that the question is defined via the SMART goals:
 
