@@ -12,15 +12,21 @@ a.	Specificity: Specify as best as you can what you want to analyze. This will m
   i.	Specify a particular relationship between variables that you want to test out. Alternatively, specify which variable you are trying to predict. 
   ii.	Specify which variables you are using as metrics. This includes the dependent variable (i.e. the variable that you are trying to predict/analyze) and the independent variables (i.e. the variables that you hypothesize are factors that influence the dependent variable).
   iii.	Specify the year that you wish to examine. This will give anyone that is interested in your research some context.
+
 b.	Measurability: You need to make sure that your answer can be quantified. This allows you to assess whether or not you can answer the question, and how well you have answered the question.
+
 c.	Attainability: Can you attain all of the data that you need? Can you use the methods required to analyze and interpret the data?
+
 d.	Reproducibility: Can your results be reproduced by someone else? This is important as it is hard to trust results that can only be reproduced by one person. Your reputation might be damaged if you neglect to consider this.
+
 e.	Time-Bound: Often, you do not have the freedom to work on your analysis forever. You need to meet deadlines. Can you complete your analysis in the given time period? 
 
 2.Know What the Dataset Contains: It’s important to know what information your dataset has. Following this step allows you to:
   
 a.	Focus on the most important variables. This is also part of step 3 (i.e cleaning the data).
+
 b.	Understand the data types. This may or may not influence you to manipulate variables to best suit your needs. 
+
 c.	Decide what methods of statistical analysis are practical in the given time frame. You cannot work on this data forever, so you have to find practical and meaningful methods of measuring data.
 
 (show the dataset variables here).
@@ -33,7 +39,7 @@ c.	Decide what methods of statistical analysis are practical in the given time f
 
 [Average Ranking No. by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png) - Since I had over 300 songs, I decided to use the average ranking number instead. A higher number means a lower rank on the billboard. The Rock Genre has the lowest average ranking number, which might suggest that rock songs are usually going to be a hit.
 
-[Average Ranking No. by Months Entered](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20by%20Months%20Entered.png) - In this graph, I was trying to determine the trend of rankings over the year 2000. The average ranking number increased over the year.
+[Average Ranking No. by Months Entered](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20by%20Months%20Entered.png) - In this graph, I was trying to determine the trend of rankings over the year 2000. The average ranking number increased over the year, suggesting that it might be better to enter the song as early as you can.
 
 
 5.Decide Which Method(s) of Higher Level Analysis You Are Going to Use: There are a lot of higher level methods of analysis (e.g. regression models, hypothesis testing, normalization tests, etc.). However, these should be implemented once you understand what you want to test and know which variables to test. These should be considered after you have done all of the other steps as it is simply a matter of deciding which one to use based on the cleaned data.
