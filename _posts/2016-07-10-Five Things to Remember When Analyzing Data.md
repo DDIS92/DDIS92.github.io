@@ -37,8 +37,11 @@ c.	Decide what methods of statistical analysis are practical in the given time f
 
 4.Plot Graphs, Tables and Charts: Visualizations help show patterns in the data and convey a lot of information without being unnecessarily complicated. Keep in mind that these visualizations are subject to how you manipulate your variables. Remember to state your assumptions when presenting data to make sure that you do not mislead anyone looking at the graph.
 
-[Average Ranking by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png)
+[Average Ranking No. by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png)
+
+[Average Ranking No. by Months Entered](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20by%20Months%20Entered.png)
+
 
 5.Decide Which Method(s) of Higher Level Analysis You Are Going to Use: There are a lot of higher level methods of analysis (e.g. regression models, hypothesis testing, normalization tests, etc.). However, these should be implemented once you understand what you want to test and know which variables to test. These should be considered after you have done all of the other steps as it is simply a matter of deciding which one to use based on the cleaned data.
 
-That's all for today. I hope that this gave you a better understand as to how to approach a project involving data analysis. 	
+That's all for today. I hope that this gave you a better understand as to how to approach a project involving data analysis. If you would like to see my Notebook for this project, please click on [This Link](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Siddarth%20Anand%20Billboard%20Project.ipynb)	
