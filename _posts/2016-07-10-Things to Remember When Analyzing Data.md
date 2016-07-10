@@ -8,26 +8,26 @@ Whenever you have a project that involves data analysis, there are 5 steps (at m
 
 Define a Problem Statement: You should decide what you are trying to analyze. This should always be your first step in the project. Make sure that the question is defined via the SMART goals:
 
-a.	Specificity: Specify as best as you can what you want to analyze. This will make it easier for you to come up with results. Here are some examples of implementing specificity when coming up with a problem statement:
+a.Specificity: Specify as best as you can what you want to analyze. This will make it easier for you to come up with results. Here are some examples of implementing specificity when coming up with a problem statement:
   i.	Specify a particular relationship between variables that you want to test out.
   ii.	Specify what variables you are using as metrics. This includes the dependent variable (i.e. the variable that you are trying to predict/analyze) and the independent variables (i.e. the variables that you hypothesize are factors that influence the dependent variable).
   iii.	Specify the year that you wish to examine. This will give anyone reading your study some context.
 
-b.	Measurability: You need to make sure that your answer can be quantified. This allows you to assess whether or not you can answer the question, and how well you have answered the question.
+b.Measurability: You need to make sure that your answer can be quantified. This allows you to assess whether or not you can answer the question, and how well you have answered the question.
   
-c.	Attainability: Can you attain all of the data that you need? Can you use the methods required to analyze and interpret the data?
+c.Attainability: Can you attain all of the data that you need? Can you use the methods required to analyze and interpret the data?
   
-d.	Reproducibility: Can your results be reproduced by someone else? 
+d.Reproducibility: Can your results be reproduced by someone else? 
   
-e.	Time-Bound: Often, you do not have the freedom to work on your analysis forever. You need to meet deadlines. Can you complete your analysis in the given time period? 
+e.Time-Bound: Often, you do not have the freedom to work on your analysis forever. You need to meet deadlines. Can you complete your analysis in the given time period? 
 
 Know What the Dataset Contains: It’s important to know what information your dataset has. Following this step allows you to:
   
-a.	Focus on the most important variables. This is also part of step 3 (i.e cleaning the data).
+a.Focus on the most important variables. This is also part of step 3 (i.e cleaning the data).
 
-b.	Understand the data types. This may or may not influence you to manipulate variables to best suit your needs. 
+b.Understand the data types. This may or may not influence you to manipulate variables to best suit your needs. 
 
-c.	Decide what methods of statistical analysis are practical in the given time frame. You cannot work on this data forever, so you have to find practical and meaningful methods of measuring data.
+c.Decide what methods of statistical analysis are practical in the given time frame. You cannot work on this data forever, so you have to find practical and meaningful methods of measuring data.
 
 (show the dataset variables here).
 
