@@ -37,7 +37,7 @@ c.	Decide what methods of statistical analysis are practical in the given time f
 
 4.Plot Graphs, Tables and Charts: Visualizations help show patterns in the data and convey a lot of information without being unnecessarily complicated. Keep in mind that these visualizations are subject to how you manipulate your variables. Remember to state your assumptions when presenting data to make sure that you do not mislead anyone looking at the graph.
 
-[Average Ranking No. by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png)
+[Average Ranking No. by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png) - Since I had over 300 songs, I decided to use the average ranking number instead. A higher number means a lower rank on the billboard. The Rock Genre has the lowest average ranking number, which might suggest that rock songs are usually going to be a hit.
 
 [Average Ranking No. by Months Entered](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20by%20Months%20Entered.png)
 
