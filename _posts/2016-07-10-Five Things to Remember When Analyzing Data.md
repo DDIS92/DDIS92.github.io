@@ -36,9 +36,8 @@ c.	Decide what methods of statistical analysis are practical in the given time f
 
 3.Clean the Data: Datasets are usually messy. Values might be missing, nonsensical, or vague. Therefore, datasets require lots of cleaning. This is a tedious, but necessary, process to ensure that your analysis goes smoothly. There are lots of ways to clean data. You can remove missing values, fill them with your own (provided that your values are not completely random guesses with no thought or logic behind them), or even obtain them from another trustworthy data source (again, it depends on the time allocated for your project). It is important to explain why you cleaned the data (or certain variables within the dataset), how you cleaned it and why you cleaned it the way you did.
 
-(show a subset of data here; NaNs, some inconsistencies with the data (float and int), etc.
 
-4.Plot Graphs, Tables and Charts: Visualizations help show patterns in the data and convey a lot of information without being unnecessarily complicated. Keep in mind that these visualizations are subject to how you manipulate your variables. Remember to state your assumptions when presenting data to make sure that you do not mislead anyone looking at the graph.
+4.Plot Graphs, Tables and Charts: Visualizations help show patterns in the data and convey a lot of information without being unnecessarily complicated. Keep in mind that these visualizations are subject to how you manipulate your variables. Remember to state your assumptions when presenting data to make sure that you do not mislead anyone looking at the graph. Below are some examples of trends/patterns that I observed.
 
 [Average Ranking No. by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png) - Since I had over 300 songs, I decided to use the average ranking number instead. A higher number means a lower rank on the billboard. The Rock Genre has the lowest average ranking number, which might suggest that rock songs are usually going to be a hit.
 
