@@ -10,7 +10,7 @@ Whenever you have a project that involves data analysis, there are 5 steps (at m
 
 a.	Specificity: Specify as best as you can what you want to analyze. This will make it easier for you to come up with results. Here are some examples of implementing specificity when coming up with a problem statement:
 
-  i.	Specify a particular relationship between variables that you want to test out. Alternatively, specify which variable you are trying to predict. In my project, I was trying to determine patterns and trends in the average rank number based on certain variables. The variables that I was trying to find relationships for were the genre of the song, the months that the song was entered and peaked, and the length of the song.
+  i.	Specify a particular relationship between variables that you want to test out. Alternatively, specify which variable you are trying to predict. In my project, I was trying to determine patterns and trends in the average rank number based on certain variables. The variables that I was examining relationships for were the genre of the song, the months that the song was entered and peaked, and the length of the song.
   
   ii.	Specify which variables you are using as metrics. This includes the dependent variable (i.e. the variable that you are trying to predict/analyze) and the independent variables (i.e. the variables that you hypothesize are factors that influence the dependent variable). This also includes how you are going to measure success/failure rates if you are going to predict an outcome.
   
@@ -42,7 +42,7 @@ In my case, I had 76 columns of data, but half of these columns were full of mis
 
 [Average Ranking No. by Genre](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20By%20Genre.png) - Since I had over 300 songs, I decided to use the average ranking number. A higher number means a lower rank on the billboard. The Rock Genre has the lowest average ranking number, which might suggest that rock songs are usually going to be a hit.
 
-[Average Ranking No. by Months Entered](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20by%20Months%20Entered.png) - In this graph, I was trying to determine the trend of rankings over the year 2000. The average ranking number increased over the year, suggesting that it might be better to enter the song as early as you can.
+[Average Ranking No. by Date Entered](https://github.com/DDIS92/DSI-HK-1/blob/master/projects/project-02/starter-code/Average%20Ranking%20by%20Months%20Entered.png) - In this graph, I was trying to determine the trend of rankings over the year 2000. The average ranking number increased over the year, suggesting that it might be better to enter the song as early as you can.
 
 
 5.Decide Which Method(s) of Higher Level Analysis You Are Going to Use: There are a lot of higher level methods of analysis (e.g. regression models, hypothesis testing, normalization tests, etc.). However, these should be implemented once you understand what you want to test and know which variables to test. These should be considered after you have done all of the other steps as it is simply a matter of deciding which one to use based on the cleaned data.
